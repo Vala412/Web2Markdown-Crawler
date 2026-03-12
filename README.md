@@ -60,8 +60,5 @@ Output: Clean Markdown versions of home, services, case studies, etc.
 - **Trafilatura**: Main extraction engine.
 - **Requests/BeautifulSoup**: Optional for URL handling and parsing.
 
-## License
-MIT License - feel free to use and modify.
 
-## Contributing
-Fork the repo, add features (e.g., multi-URL batch scraping, PDF output), and submit a PR!
+
