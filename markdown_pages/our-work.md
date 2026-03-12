@@ -1,0 +1,17 @@
+Safety is a premier SaaS platform for online training, dedicated to empowering organizations with comprehensive safety and compliance education solutions. Trusted by over one million users worldwide, Safety offers access to a vast library of 400+ online courses. Our platform enables seamless employee training, certification, and domain-specific customization for businesses looking to establish their own online training systems.
+
+Property is a leading online platform connecting landlords with tenants across the World. With a focus on simplicity, efficiency, and transparency, the platform facilitates property rental transactions, offering landlords various services from advertising their properties to finding suitable tenants.
+
+We are happy to partner with a Europe-based client on their ambitious project. They are providing comprehensive hosting services, They offers a diverse range of plans including server, email, domain, and custom packages. Their customer-centric approach is complemented by an intuitive online platform where users can seamlessly register, browse products, and make purchase.
+
+Our team developed a user-friendly platform for a financial advisory firm specializing in investment management and wealth planning. We have implemented a robust task assignment system for sales executives and managers. This feature allows for efficient task allocation, follow-up, and ensures timely client interactions. This website has been designed for account holders to access tailored financial planning, retirement planning, and investment planning services. Enabled seamless transfer of video and audio calls between sales executives and managers directly within the portal. This enhances communication efficiency and client service responsiveness.
+
+The JEAN SCENE project stands as a testament to our ability to deliver a high-performance e-commerce solution. By converting intricate designs into a Magento-based platform, we’ve crafted an online shopping experience that is not only visually appealing but also incredibly user-friendly and fast. This project showcases our commitment to excellence in web development and our dedication to meeting the client’s needs with precision and speed.
+
+Our London-based client offers integrated banking, cryptocurrency management, and investment services through a single platform, empowering individuals to achieve financial success. The project involves transforming designs from Figma into a user-friendly interface using React.js and Next.js, enhanced with Tailwind.css for styling. On the backend, Node.js and Laravel Lumen are utilized to ensure robust functionality and seamless transaction management.
+
+“Hello everyone, I’m Milos, CEO of the CleanGo company. I would like to express my heartfelt gratitude to the Vivansh Infotech Company for doing admin page for my website. The guys were very professional, the communication was very good I get the updates almost everyday and they really really did the great job. I want to recommend those guys, they’re really awesome”
+
+“Fantastic guys to work with, makes using Magento a breeze when you have someone with great experience helping you.”
+
+“we are very happy for choosing them. they did a great job, service was great and time of delivery is extra ordinary. they have bunch of hardworking professionals and they really knows the graphics.”
