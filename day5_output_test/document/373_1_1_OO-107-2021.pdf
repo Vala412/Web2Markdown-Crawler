@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Page Not Found</title>
+<link  media="all"  href='writereaddata/Portal/Design_CSS/1.css' type="text/css" rel="stylesheet"  />
+<style type="text/css">
+html, body {min-height:100%; height:100%;}
+.errorPageContant .civilLogo { margin: 0; float: none; }
+.errorPageWrapper{padding: 35px 0; /*min-height:100%; height:100%;*/ }
+.errorPageContant{max-width: 840px; width: 100%; margin:0 auto; background:#fff; padding:40px 40px 20px; border: 3px solid #e35840; text-align:center; border-radius:25px; }
+.errorPageHead{padding-bottom:20px;}
+.errorMiddleRow .firLogo{float:right; width:76; margin-top:30px;}
+.errorMiddleText { padding-top: 25px; }
+.errorMiddleText h1 { margin-bottom: 10px; color: #2460b3; font-size: 35px; font-weight: 600; }
+.errorMiddleText h3 { margin-bottom: 10px; }
+.errorPageBtn { padding-bottom: 20px; }
+.errorPageBtn .button { width: 32%; margin: 0 5px 10px 0; text-align: center; border-radius:7px; }
+.errorPageBtn .btn { float: left; margin-right: 15px; padding: 10px 25px; color: #fff; background-color: #ff6633; }
+.errorPageBtn .btn:hover { background-color: #04127B; color:#fff; text-decoration: none; }
+.errorPageContant p { margin-bottom: 20px; }
+.errorMiddleText ul.bulletText { margin-bottom: 0; }
+.errorPageContant p{color:#393939; font-size:16px;}
+@media screen and (max-width: 992px) {
+.errorPageBtn .button { width: 48%; }
+.errorPageWrapper { padding-left: 15px; padding-right: 15px; }
+}
+@media screen and (max-width: 767px) {
+.errorPageBtn .button { width: 100%; display: block; }
+.errorPageContant { padding: 20px; }
+.errorMiddleText h1 { font-size: 30px;}
+}
+</style>
+</head>
+<body>
+<div class="errorPageWrapper">
+	<div class="errorPageContant">
+    	<div class="civilLogo">
+		<a href="index.htm" title="Gujarat Police Recruitment Board">
+        <span class="logoImg"><img src="images/Mumbai-Customs-Zone-III-logo.png" alt="Gujarat Police Recruitment Board" title="Gujarat Police Recruitment Board"></span> 
+        </a>
+        </div>
+		<div class="errorPageMiddle">
+			<div class="errorMiddleRow cf">
+				<div class="errorMiddleText">
+					<h1>Page Not Found</h1>
+					<p>The page you were looking for either doesn't exist or it has just moved out.</p>
+                    <p><strong>You can visit our main links, you could find easily.</strong></p>
+                    <div class="errorPageBtn cf">
+						<a class="button" href="index" title="Home">Home</a>
+					</div>
+				</div>				
+			</div>	
+		</div>
+		
+	</div>
+</div>
+</body>
+</html>
